@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJNPqfPn_OOcj0KeFRUewPOU4KskVxjsbD8w&usqp=CAU", Corações a Mil Nacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hDhO6R0jlxw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6RX4D8aS77SAgwLaiCbFq3yyVSyPsayDWeQ&usqp=CAU", Corações a Mil Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=COoJVS8_8T4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/237/original/20210501_132002.jpg?1619886195", Corações a Mil 2 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vvFC86-BV5M
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/236/original/20210501_131943.jpg?1619886163", Corações a Mil 3 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MIWaWJHV-gs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/235/original/20210501_131924.jpg?1619886132", Corações a Mil 4 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NvVz8okcBSw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/234/original/20210501_131909.jpg?1619886099", Corações a Mil 5 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OuiVJcxiQrY
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/233/original/20210501_131850.jpg?1619886054", Corações a Mil 6 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d4W2HN8gGcI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
