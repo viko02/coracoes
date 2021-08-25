@@ -41,3 +41,63 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=d4W2HN8gGcI
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/880/715/full/AddText_09-15-07.40.17.jpg?1600209657", FM Internacional Lentas 2000
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Laz25dlkzJc
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8cewFzVjDwG8muLdr6bJOJPoyKN4LStHFw&usqp=CAU", FM Internacional Lentas 2000 Volume 2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-LOj9RcX-2k
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_748efa262e8d424c877499ddbd952c60~mv2.jpg", Live & Unplugged Ballads
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JxeQ-Se-YMo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREJ22rYmq9O-6VaG8K18BQPiiMFWzXpYfyvw&usqp=CAU", Saudades
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZWjtZ24pwGw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/266/full/20210501_134750.jpg?1619887700", Saudades Vol. 2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FxHPZONjjNs
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfFQdDZMtJe1KQp22xlGbLzMkWr6QwAjVoA&usqp=CAU", Saudades Vol. 3
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C0jkmwXH0zg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAH21jkgM1EjquskhmtM5B2ND5TF6ct6qNwg&usqp=CAU", Românticas Inesquecíveis
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b5koFA2NCp8
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPu9C_x7puR88_JWPtb4ME_fy1BdQar52E_A&usqp=CAU", Clube Dos Namorados
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ak2f8-xr8B4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_edf59c1110de46ae97690bb3be32497a~mv2.jpg", Amor Eterno Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QZRn4tKK1x0
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/320/original/20210501_144623.jpg?1619891214", Balladas Country
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Zwnv_g-N4ks
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
