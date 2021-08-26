@@ -60,6 +60,24 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JxeQ-S
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_d6edc56f07ff416082e0b885339eef29~mv2.jpg", Nada Será Como Antes 1
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3KqiX7TLGYA
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_e6804c91ee4d4bc19802630cd42f1ef2~mv2.jpg", Nada Será Como Antes 2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UKn8Xg4Lygk
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_a5a0138a665e40c2938ebb7a93d24b20~mv2.jpg", Nada Será Como Antes 3
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KPm05q-pZR4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREJ22rYmq9O-6VaG8K18BQPiiMFWzXpYfyvw&usqp=CAU", Saudades
 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZWjtZ24pwGw
